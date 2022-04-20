@@ -1,0 +1,391 @@
+{
+  "active_profile": 0,
+  "profiles": [
+    {
+      "name": "default",
+      "output_dir": ".\\mods",
+      "game_version": "1.18.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Smooth Boot (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 415758
+          }
+        },
+        {
+          "name": "No Telemetry",
+          "identifier": {
+            "CurseForgeProject": 530816
+          }
+        },
+        {
+          "name": "Animatica",
+          "identifier": {
+            "CurseForgeProject": 533006
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Accurate Block Placement",
+          "identifier": {
+            "CurseForgeProject": 323316
+          }
+        },
+        {
+          "name": "AdvancementInfo",
+          "identifier": {
+            "ModrinthProject": "G1epq3jN"
+          }
+        },
+        {
+          "name": "Ambient Environment",
+          "identifier": {
+            "CurseForgeProject": 320163
+          }
+        },
+        {
+          "name": "AntiGhost",
+          "identifier": {
+            "ModrinthProject": "Jw3Wx1KR"
+          }
+        },
+        {
+          "name": "Architectury API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 419697
+          }
+        },
+        {
+          "name": "Better Beds",
+          "identifier": {
+            "ModrinthProject": "kKwy3HU9"
+          }
+        },
+        {
+          "name": "BetterF3",
+          "identifier": {
+            "ModrinthProject": "8shC1gFX"
+          }
+        },
+        {
+          "name": "Better Mount HUD",
+          "identifier": {
+            "CurseForgeProject": 475358
+          }
+        },
+        {
+          "name": "Bobby",
+          "identifier": {
+            "ModrinthProject": "M08ruV16"
+          }
+        },
+        {
+          "name": "Borderless Mining",
+          "identifier": {
+            "ModrinthProject": "kYq5qkSL"
+          }
+        },
+        {
+          "name": "Capes",
+          "identifier": {
+            "ModrinthProject": "89Wsn8GD"
+          }
+        },
+        {
+          "name": "Custom Entity Models (CEM)",
+          "identifier": {
+            "CurseForgeProject": 477078
+          }
+        },
+        {
+          "name": "Chime",
+          "identifier": {
+            "ModrinthProject": "ubxU84eR"
+          }
+        },
+        {
+          "name": "CIT Resewn",
+          "identifier": {
+            "ModrinthProject": "otVJckYQ"
+          }
+        },
+        {
+          "name": "Cloth API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 317121
+          }
+        },
+        {
+          "name": "Cloth Config API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 319057
+          }
+        },
+        {
+          "name": "CompleteConfig",
+          "identifier": {
+            "ModrinthProject": "GtqG8z1h"
+          }
+        },
+        {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
+          "name": "Controlling",
+          "identifier": {
+            "CurseForgeProject": 250398
+          }
+        },
+        {
+          "name": "Cull Leaves",
+          "identifier": {
+            "ModrinthProject": "GNxdLCoP"
+          }
+        },
+        {
+          "name": "Don't Clear Chat History",
+          "identifier": {
+            "CurseForgeProject": 404400
+          }
+        },
+        {
+          "name": "Dynamic FPS",
+          "identifier": {
+            "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "Entity Culling Fabric/Forge",
+          "identifier": {
+            "CurseForgeProject": 448233
+          }
+        },
+        {
+          "name": "Entity Texture Features - [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 568563
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "CurseForgeProject": 306612
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "CurseForgeProject": 308769
+          }
+        },
+        {
+          "name": "Fabrishot",
+          "identifier": {
+            "ModrinthProject": "3qsfQtE9"
+          }
+        },
+        {
+          "name": "Falling Leaves",
+          "identifier": {
+            "ModrinthProject": "WhbRG4iK"
+          }
+        },
+        {
+          "name": "Farsight [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 579192
+          }
+        },
+        {
+          "name": "FastChest",
+          "identifier": {
+            "CurseForgeProject": 436038
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Item Model Fix (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 399798
+          }
+        },
+        {
+          "name": "LambdaBetterGrass",
+          "identifier": {
+            "ModrinthProject": "2Uev7LdA"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "Language Reload",
+          "identifier": {
+            "ModrinthProject": "uLbm7CG6"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "Light Overlay (Rift/Forge/Fabric)",
+          "identifier": {
+            "CurseForgeProject": 325492
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "MidnightLib",
+          "identifier": {
+            "ModrinthProject": "codAaoxh"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "MoreChatHistory",
+          "identifier": {
+            "ModrinthProject": "8qkXwOnk"
+          }
+        },
+        {
+          "name": "Not Enough Animations",
+          "identifier": {
+            "CurseForgeProject": 433760
+          }
+        },
+        {
+          "name": "Not Enough Crashes (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 353890
+          }
+        },
+        {
+          "name": "Plasmo Voice",
+          "identifier": {
+            "ModrinthProject": "1bZhdhsH"
+          }
+        },
+        {
+          "name": "Puzzle",
+          "identifier": {
+            "ModrinthProject": "3IuO68q1"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "'Slight' Gui Modifications",
+          "identifier": {
+            "CurseForgeProject": 380393
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "CurseForgeProject": 411557
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        },
+        {
+          "name": "Your Options Shall Be Respected (YOSBR)",
+          "identifier": {
+            "CurseForgeProject": 374274
+          }
+        },
+        {
+          "name": "Animatica",
+          "identifier": {
+            "CurseForgeProject": 533006
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "Ok Zoomer",
+          "identifier": {
+            "CurseForgeProject": 354047
+          }
+        },
+        {
+          "name": "Debugify",
+          "identifier": {
+            "CurseForgeProject": 596224
+          }
+        }
+      ]
+    }
+  ]
+}
