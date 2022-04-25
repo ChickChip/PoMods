@@ -8,6 +8,18 @@
       "mod_loader": "Fabric",
       "mods": [
         {
+          "name": "FPS Monitor",
+          "identifier": {
+            "CurseForgeProject": 548447
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "CurseForgeProject": 570368
+          }
+        },
+        {
           "name": "Smooth Boot (Fabric)",
           "identifier": {
             "CurseForgeProject": 415758
