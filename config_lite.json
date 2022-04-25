@@ -240,6 +240,24 @@
           "identifier": {
             "CurseForgeProject": 596224
           }
+        },
+        {
+          "name": "Inventory Profiles Next",
+          "identifier": {
+            "ModrinthProject": "O7RBXm3n"
+          }
+        },
+        {
+          "name": "ClickThrough",
+          "identifier": {
+            "ModrinthProject": "Z5b0cAlD"
+          }
+        },
+        {
+          "name": "Light Overlay (Rift/Forge/Fabric)",
+          "identifier": {
+            "CurseForgeProject": 325492
+          }
         }
       ]
     }
