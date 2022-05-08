@@ -228,6 +228,12 @@
           "identifier": {
             "CurseForgeProject": 325492
           }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
         }
       ]
     }
